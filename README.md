@@ -6,11 +6,11 @@
     -   [ ] input element -> how the data is inputted by the user
     -   [ ] type attribute -> determines the type of input used
     -   [ ] different types of inputs:
-        -   [ ] input type="email" -> tells the input to expect email syntax [including the @ symbol]
-        -   [ ] input type="passwords" -> turns the input element into dots that will replace the text
-        -   [ ] input type="text" -> plain textbox on a form
-        -   [ ] input type="submit" -> turns the input element into a button for submitting the form data
-            -   [ ] input value="Submit the form!" -> this attribute can change the text of the "Submit" button
+        -   [ ] input type = "email" -> tells the input to expect email syntax [including the @ symbol]
+        -   [ ] input type = "passwords" -> turns the input element into dots that will replace the text
+        -   [ ] input type = "text" -> plain textbox on a form
+        -   [ ] input type = "submit" -> turns the input element into a button for submitting the form data
+            -   [ ] input value = "Submit the form!" -> this attribute can change the text of the "Submit" button
 
 ---
 
